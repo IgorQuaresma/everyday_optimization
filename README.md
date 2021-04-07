@@ -1,7 +1,7 @@
 # everyday_optimization
 
+PT -> Programação linear em Python usando a biblioteca Pulp 
 
-PT -> Programação linear em Python usando a biblioteca Pulp
 EN -> Linear Programing In Python using the lib Pulp
 -------------------------------------------------------------------------------------------
 Formulação do Problema / Problem Formulation:

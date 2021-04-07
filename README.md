@@ -1,8 +1,6 @@
 # everyday_optimization
 
-PT -> Programação linear em Python usando a biblioteca Pulp 
-
-EN -> Linear Programing In Python using the lib Pulp
+PT -> Programação linear em Python usando a biblioteca Pulp  - EN -> Linear Programing In Python using the lib Pulp
 -------------------------------------------------------------------------------------------
 Formulação do Problema / Problem Formulation:
 PT - A partir de uma lista com 186 livros de três gêneros distintos (Empreendedorismo, Investigação e Alemão), você deseja ler a maior quantidade de livros no período de 1 ano considerando as seguintes restrições:
